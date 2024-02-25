@@ -1,3 +1,1 @@
-print('Hey everone!')
-while i>5:
-    print()
+print("hey there!I'm Anastasia")
